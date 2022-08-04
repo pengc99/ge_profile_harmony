@@ -8,6 +8,6 @@ The GE Profile Harmony washer and dryer are touch-screen interface washers from 
 
 # Software Needed 
 
-# Dowonload Software and Prep
+# Download Software and Prep
  
 # Sources and References
